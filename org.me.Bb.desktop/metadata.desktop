@@ -1,0 +1,16 @@
+[Desktop Entry]
+Comment=Blips-blue
+Comment[x-test]=xxBlips-bluexx
+Encoding=UTF-8
+Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
+Keywords[x-test]=xxDesktopxx;xxWorkspacexx;xxAppearancexx;xxLook and Feelxx;xxLogoutxx;xxLockxx;xxSuspendxx;xxShutdownxx;xxHibernatexx;
+Name=Blipsblue
+
+Type=Service
+
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-ParentApp=
+X-KDE-PluginInfo-License=GPLv2+
+X-KDE-PluginInfo-Name=org.me.Blipsblue.desktop
+X-KDE-PluginInfo-Version=0.1
+X-Plasma-MainScript=defaults
